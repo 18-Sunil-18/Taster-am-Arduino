@@ -1,6 +1,6 @@
 # Taster-am-Arduino
 
-Sketch Nr.6: Eine LED per Tastendruck aktivieren
+Eine LED per Tastendruck aktivieren
 Aufgabe: Eine LED soll für 5 Sekunden leuchten, wenn ein Taster betätigt wurde.
 
 Material: Arduino / eine LED (blau) / Ein Widerstand mit 100 Ohm / Ein Widerstand mit 1K Ohm (1000 Ohm) / Breadboard / Kabel / Taster
